@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "438971632708",
+    "project_id": "first-project-react-nati-868da",
+    "storage_bucket": "first-project-react-nati-868da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438971632708:android:b00d9ab6c0aebefd478011",
+        "android_client_info": {
+          "package_name": "com.first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmLdMENmw3a4Xz2QFtvU08bLDWzcOwhsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
